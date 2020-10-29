@@ -4,27 +4,30 @@
   </a>
 </p>
 
-# Category Title (Category Abbreviation) 
+# Science for Global Citizens (SCI)
 
 ## Category Description
 
 Students will:
 
-- learning outcome
-- learning outcome
-- learning outcome
+- Examine and apply the fundamental principles of the scientific discipline (true for each course) in a manner that illustrates connections among science, technology, and society;
+- Engage in the scientific method through laboratory and fieldwork to examine key elements of the science and conduct independent exploration, using observational and direct measurement techniques for primary data collection;
+- Analyze, evaluate, manipulate, and interpret data to draw conclusions.
 
 ## Courses That Fulfill This Requirement
 
 | Class |          Title          |                 Units                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  [EC 1000] |  Effective Communication 1: Verbal and Visual Literacies | 4.00 Units |
+|  [PHYS 1000] |  Conceptual Physics | 3.00 Units |
+|  [PHYS 1000] |  Conceptual Physics Lab | 1.00 Units |
 
-[EC 1000] - This course may be offered as Writing Intensive (denoted with a + and offering students additional writing instruction with attention to grammar and mechanics) or Service-Learning
+[PHYS 1000] - An introductory physics class. Topics will include classical mechanics (motion), conservation of energy, thermodynamics, electricity and magnetism, light, sound and wave properties - 3 lecture hours. Recommended for non-Biological Sciences or non-Chemistry majors. PHYS 1000/PHYS 1005 meets the Science for Global Citizens CORE requirements. PHYS 1000/PHYS 1005 is designed to meet all requirements for the Physical Science portion of the California Multiple Subject Teaching Credential when taken in combination with BIO 1400/BIO 1405 and PHSC 2200/PHSC 2205.
 
+[PHYS 1005] - Lab component of PHYS 1000 - 3 lab hours. PHYS 1000/PHYS 1005 meets the Science for Global Citizens CORE requirements. PHYS 1000/PHYS 1005 is designed to meet all requirements for the Physical Science portion of the California Multiple Subject Teaching Credential when taken in combination with BIO 1400/BIO 1405 and PHSC 2200/PHSC 2205.
 
-[EC 1000]:https://drive.google.com/file/d/1OegybHRHTegCp8Fwup6DHvFvxwnNgKWM/view?usp=sharing
+[PHYS 1000]:https://drive.google.com/file/d/19teAUBDpmKExxocpuzD0rrviup9aaZP3/view?usp=sharing
 
+[PHYS 1005]:https://drive.google.com/file/d/1bTeR6JtlZ3jW6VIv8sAc2nC2WLeljP0u/view?usp=sharing
 
 ## Make School Course Policies
 
