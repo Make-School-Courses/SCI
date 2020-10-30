@@ -16,18 +16,18 @@ Students will:
 
 ## Courses That Fulfill This Requirement
 
-| Class |          Title          |                 Units                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  [PHYS 1000] |  Conceptual Physics | 3.00 Units |
-|  [PHYS 1000] |  Conceptual Physics Lab | 1.00 Units |
+| Class |          Title          |       Semester - Section       | Units |
+|:-----:|:----------------------:|:---------------------------:|:--------|
+|  PHYS 1000 |  Conceptual Physics | [Fall 2020] | 3.00 Units |
+|  PHYS 1005 |  Conceptual Physics Lab | [Fall 2020 - Lab] | 1.00 Units |
 
-[PHYS 1000] - An introductory physics class. Topics will include classical mechanics (motion), conservation of energy, thermodynamics, electricity and magnetism, light, sound and wave properties - 3 lecture hours. Recommended for non-Biological Sciences or non-Chemistry majors. PHYS 1000/PHYS 1005 meets the Science for Global Citizens CORE requirements. PHYS 1000/PHYS 1005 is designed to meet all requirements for the Physical Science portion of the California Multiple Subject Teaching Credential when taken in combination with BIO 1400/BIO 1405 and PHSC 2200/PHSC 2205.
+PHYS 1000 - An introductory physics class. Topics will include classical mechanics (motion), conservation of energy, thermodynamics, electricity and magnetism, light, sound and wave properties - 3 lecture hours. Recommended for non-Biological Sciences or non-Chemistry majors. PHYS 1000/PHYS 1005 meets the Science for Global Citizens CORE requirements. PHYS 1000/PHYS 1005 is designed to meet all requirements for the Physical Science portion of the California Multiple Subject Teaching Credential when taken in combination with BIO 1400/BIO 1405 and PHSC 2200/PHSC 2205.
 
-[PHYS 1005] - Lab component of PHYS 1000 - 3 lab hours. PHYS 1000/PHYS 1005 meets the Science for Global Citizens CORE requirements. PHYS 1000/PHYS 1005 is designed to meet all requirements for the Physical Science portion of the California Multiple Subject Teaching Credential when taken in combination with BIO 1400/BIO 1405 and PHSC 2200/PHSC 2205.
+PHYS 1005 - Lab component of PHYS 1000 - 3 lab hours. PHYS 1000/PHYS 1005 meets the Science for Global Citizens CORE requirements. PHYS 1000/PHYS 1005 is designed to meet all requirements for the Physical Science portion of the California Multiple Subject Teaching Credential when taken in combination with BIO 1400/BIO 1405 and PHSC 2200/PHSC 2205.
 
-[PHYS 1000]:https://drive.google.com/file/d/19teAUBDpmKExxocpuzD0rrviup9aaZP3/view?usp=sharing
+[Fall 2020]:https://drive.google.com/file/d/19teAUBDpmKExxocpuzD0rrviup9aaZP3/view?usp=sharing
 
-[PHYS 1005]:https://drive.google.com/file/d/1bTeR6JtlZ3jW6VIv8sAc2nC2WLeljP0u/view?usp=sharing
+[Fall 2020 - Lab]:https://drive.google.com/file/d/1bTeR6JtlZ3jW6VIv8sAc2nC2WLeljP0u/view?usp=sharing
 
 ## Make School Course Policies
 
