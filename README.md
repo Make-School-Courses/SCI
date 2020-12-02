@@ -18,6 +18,10 @@ Students will:
 
 | Class |          Title          |       Semester - Section       | Units |
 |:-----:|:----------------------:|:---------------------------:|:--------|
+|  PHSC 3210 |  Bay Area Rocks | Spring 2021 | 3.00 Units |
+|  PHSC 3215 |  Bay Area Rocks Lab | Spring 2021 - Lab | 3.00 Units |
+|  PHYS 1000 |  Conceptual Physics | Spring 2021 | 3.00 Units |
+|  PHYS 1005 |  Conceptual Physics Lab | Spring 2021 - Lab | 1.00 Units |
 |  PHYS 1000 |  Conceptual Physics | [Fall 2020] | 3.00 Units |
 |  PHYS 1005 |  Conceptual Physics Lab | [Fall 2020 - Lab] | 1.00 Units |
 
